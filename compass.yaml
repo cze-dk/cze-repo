@@ -1,0 +1,17 @@
+name: cze-repo
+slug: cze-repo
+description: null
+configVersion: 1
+typeId: SERVICE
+ownerId: 
+fields:
+  tier: 4
+  isMonorepoProject: false
+links:
+  - name: null
+    type: REPOSITORY
+    url: 'https://github.com/cze-dk/cze-repo'
+relationships: {}
+labels:
+  - 'source:github'
+customFields: null
